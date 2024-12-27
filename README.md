@@ -8,4 +8,4 @@ https://discord.com/oauth2/authorize?client_id=1321987609463099432&permissions=8
 3. Use `!nuke` command.
 4. Ban the source.
 ## Is this safe?
-https://youtu.be/gKq3i0BptaY
+https://youtu.be/xvRQdNtRGOA
